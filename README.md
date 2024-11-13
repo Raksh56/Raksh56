@@ -59,8 +59,8 @@
 
 ###
 
-/*<div align="center">
+*/<div align="center">
   <img height="200" src="https://cdn.discordapp.com/attachments/1268636503245062290/1305982996637028452/Codingman.webp?ex=673502f2&is=6733b172&hm=48b83f88d946bdf9cd5ecad9d6e148b127c1eb7533238c3ba33ae605ea0dc58c&"  />
-</div>*/
+</div>/*
 
 ###
