@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Rakshith Vinay ... and I'm a Full Stack WebDeveloper, from Banglore, Karnataka</h2>
+<h2 align="left">Hi 👋! I'm Rakshith Vinay, and I'm a Full Stack WebDeveloper, from Banglore, Karnataka</h2>
 
 ###
 
