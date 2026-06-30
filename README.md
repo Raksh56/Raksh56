@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm Rakshith Vinay, and I'm a Data Analyst, from Banglore, Karnataka</h2>
+<h2 align="left">Hello! I'm Rakshith Vinay, and I'm a UI/UX Designer, from Banglore, Karnataka</h2>
 
 ###
 
